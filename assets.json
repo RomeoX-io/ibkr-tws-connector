@@ -1,0 +1,10 @@
+{
+    "TSLA": {
+        "target": 10,
+        "open": 0
+    },
+    "AAPL": {
+        "target": 20,
+        "open": 0
+    }
+}
